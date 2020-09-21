@@ -15,7 +15,12 @@ echo -e "\033[31m     \/  \/   |_|___/_| |_|\e[0m|_|    |_|___/_| |_| v2.0";
 
 printf "\e[1;77m Website :- www.atechnicalhacker.tk \e[0m \n"
 printf "\e[1;77m v2.0 Coded By github.com/AjayKumar59 \e[0m \n"
-
+echo -e "\033[31m      ______  \e[0m     __________         ";
+echo -e "\033[31m     /  ____ \ \e[0m   |__________|  | |       | |";
+echo -e "\033[31m    / /     \ \ \e[0m       | |      | |_______| | ";
+echo -e "\033[31m   / /_______\ \ \e[0m      | |      | |_______| |";
+echo -e "\033[31m  / /_________\ \ \e[0m     | |      | |       | |";
+echo -e "\033[31m / /           \ \ \e[0m.   | |      | |       | | ATechnicalHacker ";
 }
 
 stop() {
