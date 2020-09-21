@@ -2,6 +2,7 @@
                                                    
 <p>Using WishFish tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
 <p1>
+
 <h3>Download termux https://play.google.com/store/apps/details?id=com.termux</h3>
 <p> first download Termux from Google Play Store 👆 , or click about Link and download , after that install this package in Termux <p/>
 <h3>Installation</h3>
