@@ -1,5 +1,6 @@
 <h1>WishFish v2.0</h1>
-                                                   
+ <img src="https://github.com/AjayKumar59/WishFish/blob/master/IMG_20200921_121534.jpg" alt="snapshot" width="560" height="400">
+                                                  
 <p>Using WishFish tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
 <p1>
 
