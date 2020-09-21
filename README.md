@@ -19,7 +19,9 @@ $ pkg install git
 $ apt install openssh
 
 $ git clone https://github.com/AjayKumar59/WishFish
+
 cd WishFish
+
 bash wishfish.sh
 
 
