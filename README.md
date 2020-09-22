@@ -35,7 +35,12 @@ $ bash wishfish.sh
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
 </p>
- Watch Video:-<iframe width="560" height="315" src="https://www.youtube.com/embed/b-TqOBGIne0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ Watch Video:- 
+Watch Video :-
+
+
+
+
 <h4>Note :- If victim open this url in chrome or android inbuilt browser then it can access victim camera by allowing permissions and send snap to you.
 </h4>
 This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
