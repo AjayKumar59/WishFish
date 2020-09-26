@@ -45,4 +45,4 @@ https://youtu.be/b-TqOBGIne0
 This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
 View this post , For more details visit 👇
 <a href="https://www.atechnicalhacker.tk/2020/09/how-to-hack-front-camera-anyone-using.html" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="425" src="https://1.bp.blogspot.com/-Szfu6FqEP90/X2mIb5WqUjI/AAAAAAAAAaw/SW5nq1ATPW8k2gvcXfWVI6pWHlDBOC4kwCLcBGAsYHQ/s320/click-to-visit1.gif" width="320" /></a>
-                                            Inspired By github.com/thelinuxchoice
+                                            
