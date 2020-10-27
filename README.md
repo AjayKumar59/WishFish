@@ -32,7 +32,12 @@ $ cd WishFish
 Now turn your device hotspot
 
 $ bash wishfish.sh
+Note :- If victim open this url in chrome or android inbuilt browser then it can access victim camera by allowing permissions and send snap to you.
+The captured images will be stored in captured folder. Run the following script to copy it to pictures folder
 
+$ chmod +x copy.sh
+$ ./copy.sh
+This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
 </p>
  
